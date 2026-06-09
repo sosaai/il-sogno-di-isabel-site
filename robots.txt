@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ilsognodiisabel.it/sitemap.xml
+Sitemap: https://sosaai.github.io/il-sogno-di-isabel-site/sitemap.xml
