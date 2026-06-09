@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 280" role="img" aria-label="Il Sogno di Isabel">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#c68d6d"/><stop offset="1" stop-color="#fff6ea"/></linearGradient></defs>
+  <rect width="280" height="280" rx="140" fill="#221f20"/>
+  <circle cx="140" cy="140" r="124" fill="none" stroke="url(#g)" stroke-width="5"/>
+  <path d="M78 88 C112 52 166 48 202 90 C170 76 118 76 78 88Z" fill="none" stroke="url(#g)" stroke-width="3" opacity=".82"/>
+  <text x="140" y="132" text-anchor="middle" fill="#fff7ed" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="800" letter-spacing="4">SOGNO</text>
+  <text x="140" y="168" text-anchor="middle" fill="url(#g)" font-family="Georgia, serif" font-size="28" font-style="italic">di Isabel</text>
+  <text x="140" y="199" text-anchor="middle" fill="#fff7ed" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="4">SONDRIO</text>
+</svg>
